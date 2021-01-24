@@ -1,0 +1,2 @@
+# Kaggle_titanic_turicreate_collab_firstsubmission-_AnjaliRaj_EEKGP24
+used random forest classifier to get the predictions
